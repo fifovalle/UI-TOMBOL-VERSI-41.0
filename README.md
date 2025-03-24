@@ -33,7 +33,7 @@
 
 🔍 Berikut tampilan antarmuka proyek ini:
 
-![Image](https://github.com/user-attachments/assets/c232bfba-6408-4266-8d5f-83d55c4c6e9b)
+![Image](https://github.com/user-attachments/assets/38a8b696-65fc-48e3-b8bc-ea3dc65e47b9)
 
 ---
 
